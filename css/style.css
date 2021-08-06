@@ -63,7 +63,7 @@ header .main_text .wrap{
 header .main_text .wrap .inbox{
     width: calc(100% / 12 * 5); padding: 0 10px;
 }
-header .main_text .wrap h1{font-size: 48px; font-weight: 700; color: #373735;}
+header .main_text .wrap h1{font-size: 48px; font-weight: 700; color: #373735; text-shadow: 0 0 2px rgba(255,255,255,0.3);}
 
 
 header #head{
